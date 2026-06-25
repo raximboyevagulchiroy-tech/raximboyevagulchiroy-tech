@@ -20,7 +20,7 @@ I'm **Gulchiroy Muzaffarovna** — an Applied Mathematics student and an aspirin
 
 ---
 
-### 🛠 Texnologiyalar & Asboblar | Technologies & Tools
+### 🛠 Texnologiyalar  | Technologies 
 
 <p align="left">
   <!-- Core Languages & Data Tools -->
@@ -71,3 +71,21 @@ I'm **Gulchiroy Muzaffarovna** — an Applied Mathematics student and an aspirin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raximboyevagulchiroy-tech&theme=react-dark" alt="Gulchiroy's Activity Graph" width="100%" />
 </p>
+---
+
+### 📬 Aloqa | Contact
+
+<p align="left">
+  <a href="https://t.me/raximboyevagulchiroy_tech" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/raximboyevagulchiroy-tech">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*   💬 **Telegram:** Loyihalar bo'yicha takliflar yoki savollar uchun bemalol yozishingiz mumkin.
+*   💼 **LinkedIn:** Professional aloqalar va ma'lumotlar muhandisligi (Data Engineering) hamjamiyati uchun.
