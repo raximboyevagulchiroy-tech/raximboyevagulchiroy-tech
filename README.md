@@ -38,14 +38,12 @@ I'm **Gulchiroy Muzaffarovna** — an Applied Mathematics student and Python Ful
 
 ---
 
-### 🚀 Mening Loyihalarim | My Projects
-
 | Loyiha Nomi | Yo'nalishi / Texnologiyalar | Tizim Vazifasi | Link / Holati |
 | :--- | :--- | :--- | :--- |
 | 💊 **PharmaManage (Dorixona Tizimi)** | **Full-Stack Development** <br> `Django REST Framework`, `JS Fetch API`, `SQLite` | Dorilar zaxirasi va savdolarni boshqaruvchi tizim. JavaScript Fetch API orqali backend bilan dinamik bog'lanadi va avtomatik hisobotlarni shakllantiradi. | 💻 *Ishlab chiqilmoqda* |
 | 📚 **Kitobxonlar Ligasi** | **Web Application & Database** <br> `Python`, `Django`, `SQLite` | O'zbek adabiyoti kitoblari, sharhlar, elektron PDFlar va reyting tizimiga ega interaktiv test platformasi. | [🌐 Jonli Sayt](http://kitobxonlar-ligasi.mutoala.pythonanywhere.com) |
-| 📐 **Matematika Test Bot** | **Telegram Bot** <br> `Python`, `Telebot / Aiogram` | O'qituvchilar uchun test kodlarini generatsiya qilish va foydalanuvchilar yuborgan javoblar natijalarini hisoblash tizimi. | 🤖 *Ishlab chiqilmoqda* |
-| 🐍 **Python Darslari Bot** | **Telegram Bot** <br> `Python` | Foydalanuvchilarning bilim darajalariga qarab moslashtirilgan testlarni dinamik taqdim etuvchi bot. | 🤖 *Ishlab chiqilmoqda* |
+| 📐 **Matematika Test Bot** | **Telegram Bot** <br> `Python`, `Telebot / Aiogram` | O'qituvchilar uchun test kodlarini generatsiya qilish va foydalanuvchilar yuborgan javoblar natijalarini hisoblash tizimi. | [🤖 Botga o'tish](https://t.me/onlayn_test_natija_bot) |
+| 🐍 **Python Darslari Bot** | **Telegram Bot** <br> `Python` | Foydalanuvchilarning bilim darajalarini qatlamlarga ajratish va mos testlarni dinamik taqdim etish bot tizimi. | [🤖 Botga o'tish](https://t.me/python_mini_kurs_bot) |
 
 ---
 
