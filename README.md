@@ -86,9 +86,6 @@ I work on cleaning raw data, modeling it with **Star Schema** and **Medallion Ar
 | 7 | 💊 **PharmaManage** | Django REST, JS Fetch API, SQLite | Dorixona zaxirasi va savdolarini boshqaruvchi, avtomatik hisobotlar shakllantiruvchi full-stack tizim | 🔧 Ishlab chiqilmoqda |
 | 8 | 🤖 **Online Test Checking Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Foydalanuvchilarga test kaliti orqali test topshirish va natijani avtomatik hisoblab berish imkonini beruvchi Telegram bot | 🔗 Repo |
 | 9 | 🐍 **Python Learning Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Python darslari, materiallar va testlar orqali interaktiv o'rganish imkonini beruvchi Telegram bot, admin panel bilan | 🔗 Repo |
-
-> 📌 *Eslatma: "🔗 Repo" belgisi qo'yilgan loyihalarga GitHub repo havolangizni qo'shishingiz kerak — men sizning haqiqiy repo manzillaringizni bilmayman, shuning uchun ularni o'zingiz to'ldirasiz.*
-
 ---
 
 ## 📈 GitHub Statistikam | GitHub Stats
