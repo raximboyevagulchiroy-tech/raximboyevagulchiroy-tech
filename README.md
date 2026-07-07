@@ -1,9 +1,9 @@
 <h1 align="center">Assalomu alaykum! | Hi there! 👋</h1>
 <h3 align="center">Gulchiroy Raximboyeva</h3>
-<h4 align="center">🎯 Aspiring Data Engineer | Python Full-Stack Developer</h4>
+<h4 align="center">🚀 Python Full-Stack Developer | Backend & Frontend</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ETL+Pipelines+%7C+Data+Warehousing+%7C+Star+Schema;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake;Django+%7C+REST+API+%7C+Telegram+Bots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Django+%7C+REST+API+%7C+Backend+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+Frontend;Growing+into+Data+Engineering+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,25 +18,25 @@
 
 **🇺🇿 O'zbekcha**
 
-Salom! Men **Gulchiroy Raximboyeva** — Urganch Davlat Universiteti, Amaliy matematika yo'nalishi talabasi va **Data Engineering** sohasiga chuqur qiziqish bilan yondashuvchi Python dasturchiman.
+Salom! Men **Gulchiroy Raximboyeva** — Urganch Davlat Universiteti, Amaliy matematika yo'nalishi talabasi va **Python Full-Stack (Backend & Frontend)** dasturchiman.
 
-Men xom ma'lumotni tozalash, uni **Star Schema** va **Medallion Architecture (Bronze–Silver–Gold)** asosida modellashtirish, **ETL pipeline**lar qurish va **Power BI** orqali biznes tahliliga aylantirish bilan shug'ullanaman. Shu bilan birga, **Django** asosida xavfsiz REST API'lar va to'liq funksional veb-ilovalar, hamda Python orqali Telegram botlar yaratish tajribasiga ham egaman.
+Men **Django** asosida xavfsiz REST API'lar va to'liq funksional veb-ilovalar quraman, **HTML/CSS/JavaScript** yordamida qulay frontend interfeyslar yarataman, hamda Python orqali Telegram botlar ishlab chiqaman. Shu bilan birga, so'nggi loyihalarimda **ETL pipeline**lar, **Star Schema**, **Medallion Architecture** va **Power BI** kabi **Data Engineering** yo'nalishidagi vositalarni ham chuqur o'rganib, amaliy loyihalarda qo'llab kelmoqdaman — bu men uchun qiziqarli va faol rivojlanayotgan yo'nalish.
 
 - 🎓 **O'qish joyi:** Urganch Davlat Universiteti — Amaliy matematika
-- 🎯 **Karyera maqsadim:** Data Engineer sifatida real biznes ma'lumotlarini ishonchli, avtomatlashtirilgan pipeline'larga aylantirish
-- 💡 **Kuchli tomonlarim:** Matematik mantiq, SQL va ma'lumotlar bazasi arxitekturasi, muammoni bosqichma-bosqich (Extract → Transform → Load) yechish
-- 📊 **Ishlagan yo'nalishlarim:** ETL/ELT, Data Warehousing (Snowflake), Data Modeling (Star Schema, SCD Type 2), BI Dashboarding (Power BI/DAX), Backend Development (Django REST)
+- 🎯 **Karyera maqsadim:** Backend/Full-Stack dasturchi sifatida ishonchli, xavfsiz va yaxshi arxitekturaga ega tizimlar qurish, shu bilan birga Data Engineering ko'nikmalarimni chuqurlashtirish
+- 💡 **Kuchli tomonlarim:** Matematik mantiq, SQL va ma'lumotlar bazasi arxitekturasi, REST API dizayni, muammoni bosqichma-bosqich yechish
+- 📊 **Qiziqish bildirayotgan yo'nalishim:** Data Engineering — ETL/ELT, Data Warehousing (Snowflake), Data Modeling (Star Schema, SCD Type 2), BI Dashboarding (Power BI/DAX)
 
 **🇬🇧 English**
 
-Hi! I'm **Gulchiroy Raximboyeva** — an Applied Mathematics student at Urganch State University with a strong, focused interest in **Data Engineering**.
+Hi! I'm **Gulchiroy Raximboyeva** — an Applied Mathematics student at Urganch State University and a **Python Full-Stack (Backend & Frontend) Developer**.
 
-I work on cleaning raw data, modeling it with **Star Schema** and **Medallion Architecture (Bronze–Silver–Gold)**, building **ETL pipelines**, and turning it into business insight through **Power BI**. Alongside this, I also build secure REST APIs and full-stack web applications with **Django**, and Telegram bots with Python.
+I build secure REST APIs and full-stack web applications with **Django**, create clean frontend interfaces with **HTML/CSS/JavaScript**, and develop Telegram bots with Python. Alongside this, in my recent projects I've been diving into **Data Engineering** — building **ETL pipelines**, modeling data with **Star Schema** and **Medallion Architecture**, and creating dashboards with **Power BI** — an area I find exciting and am actively growing in.
 
 - 🎓 **Education:** Urganch State University — Applied Mathematics
-- 🎯 **Career goal:** Becoming a Data Engineer who turns real business data into reliable, automated pipelines
-- 💡 **Strengths:** Mathematical/logical reasoning, SQL & database architecture, breaking problems into clear ETL stages
-- 📊 **Focus areas:** ETL/ELT, Data Warehousing (Snowflake), Data Modeling (Star Schema, SCD Type 2), BI Dashboarding (Power BI/DAX), Backend Development (Django REST)
+- 🎯 **Career goal:** Building reliable, well-architected systems as a Backend/Full-Stack developer, while continuing to deepen my Data Engineering skills
+- 💡 **Strengths:** Mathematical/logical reasoning, SQL & database architecture, REST API design, breaking problems into clear steps
+- 📊 **Growing interest:** Data Engineering — ETL/ELT, Data Warehousing (Snowflake), Data Modeling (Star Schema, SCD Type 2), BI Dashboarding (Power BI/DAX)
 
 ---
 
@@ -77,15 +77,16 @@ I work on cleaning raw data, modeling it with **Star Schema** and **Medallion Ar
 
 | # | Loyiha | Yo'nalish / Texnologiyalar | Qisqacha | Link |
 |---|---|---|---|---|
-| 1 | 📊 **HR Analytics Pipeline** | Python, Pandas, Medallion Architecture, Star Schema, Power BI | SQLite manbadan Bronze→Silver→Gold bosqichlari orqali tozalangan HR ma'lumotlarini Power BI dashboard'ga yetkazuvchi to'liq ETL pipeline | 🔗 Repo |
-| 2 | ❄️ **Enterprise Sales Data Platform** | Snowflake, SQL DDL, Star Schema, Power BI, DAX | Cloud Data Warehouse (Snowflake) asosida qurilgan sotuv tahlili tizimi, DAX measures va interaktiv dashboard bilan | 🔗 Repo |
-| 3 | 🌤️ **Realtime API ETL Pipeline** | Python, REST API (Open-Meteo), Watermark strategy, Power BI | Tashqi API'dan incremental load (watermark) strategiyasi orqali real-vaqt ob-havo ma'lumotlarini yig'uvchi ETL tizimi | 🔗 Repo |
-| 4 | ⚡ **Serverless ETL (Azure Functions Simulation)** | Python, Event-driven architecture, Azure Functions | Fayl tizimiga yangi ma'lumot tushganda avtomatik ishga tushuvchi, Azure Functions arxitekturasini simulyatsiya qiluvchi ETL pipeline | 🔗 Repo |
-| 5 | 💓 **Pulse — Subscription Analytics Platform** | Python (OOP), SCD Type 2, Snowflake, Power BI | SaaS biznes uchun MRR, Churn Rate va mijoz reja tarixini SCD Type 2 metodologiyasi asosida kuzatuvchi advanced-darajadagi pipeline | 🔗 Repo |
-| 6 | 📚 **Kitobxonlar Ligasi** | Django, Python, SQLite, JS | O'zbek adabiyoti ixlosmandlari uchun interaktiv platforma: kitoblar, sharhlar, testlar, reyting tizimi | 🌐 [Jonli Sayt](http://mutoala.pythonanywhere.com) |
+| 1 | 📊 **HR Analytics Pipeline** | Python, Pandas, Medallion Architecture, Star Schema, Power BI | SQLite manbadan Bronze→Silver→Gold bosqichlari orqali tozalangan HR ma'lumotlarini Power BI dashboard'ga yetkazuvchi to'liq ETL pipeline | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/HR-Analytics-dashboard) |
+| 2 | ❄️ **Enterprise Sales Data Platform** | Snowflake, SQL DDL, Star Schema, Power BI, DAX | Cloud Data Warehouse (Snowflake) asosida qurilgan sotuv tahlili tizimi, DAX measures va interaktiv dashboard bilan | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/enterprise-sales-data-platform) |
+| 3 | 🌤️ **Realtime API ETL Pipeline** | Python, REST API (Open-Meteo), Watermark strategy, Power BI | Tashqi API'dan incremental load (watermark) strategiyasi orqali real-vaqt ob-havo ma'lumotlarini yig'uvchi ETL tizimi | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/realtime-api-etl-pipeline) |
+| 4 | ⚡ **Serverless ETL (Azure Functions Simulation)** | Python, Event-driven architecture, Azure Functions | Fayl tizimiga yangi ma'lumot tushganda avtomatik ishga tushuvchi, Azure Functions arxitekturasini simulyatsiya qiluvchi ETL pipeline | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/serverless-etl-azure-functions) |
+| 5 | 💓 **Pulse — Subscription Analytics Platform** | Python (OOP), SCD Type 2, Snowflake, Power BI | SaaS biznes uchun MRR, Churn Rate va mijoz reja tarixini SCD Type 2 metodologiyasi asosida kuzatuvchi advanced-darajadagi pipeline | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/Pulse-Subscription-Analytics-Platform) |
+| 6 | 📚 **Kitobxonlar Ligasi** | Django, Python, SQLite, JS | O'zbek adabiyoti ixlosmandlari uchun interaktiv platforma: kitoblar, sharhlar, testlar, reyting tizimi | 🌐 [Jonli Sayt](http://mutoala.pythonanywhere.com) · 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/kitobxonlar_ligasi1) |
 | 7 | 💊 **PharmaManage** | Django REST, JS Fetch API, SQLite | Dorixona zaxirasi va savdolarini boshqaruvchi, avtomatik hisobotlar shakllantiruvchi full-stack tizim | 🔧 Ishlab chiqilmoqda |
-| 8 | 🤖 **Online Test Checking Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Foydalanuvchilarga test kaliti orqali test topshirish va natijani avtomatik hisoblab berish imkonini beruvchi Telegram bot | 🔗 Repo |
-| 9 | 🐍 **Python Learning Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Python darslari, materiallar va testlar orqali interaktiv o'rganish imkonini beruvchi Telegram bot, admin panel bilan | 🔗 Repo |
+| 8 | 🤖 **Online Test Checking Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Foydalanuvchilarga test kaliti orqali test topshirish va natijani avtomatik hisoblab berish imkonini beruvchi Telegram bot | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/test-tekshiruvchi-bot) |
+| 9 | 🐍 **Python Learning Bot** | Python, Telegram Bot API, Django, SQLite/PostgreSQL | Python darslari, materiallar va testlar orqali interaktiv o'rganish imkonini beruvchi Telegram bot, admin panel bilan | 🔗 [Repo](https://github.com/raximboyevagulchiroy-tech/python-darslari-bot) |
+
 ---
 
 ## 📈 GitHub Statistikam | GitHub Stats
